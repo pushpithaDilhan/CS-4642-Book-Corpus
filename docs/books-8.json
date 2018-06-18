@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "33.14", 
+            "name": "The Shadow Hero (The Shadow Hero)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "27.37", 
+            "name": "The Secret (The Secret #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "51.36", 
+            "name": "The Regional Office Is Under Attack!", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "36.00", 
+            "name": "The Psychopath Test: A Journey Through the Madness Industry", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "10.65", 
+            "name": "The Project", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "43.54", 
+            "name": "The Power of Now: A Guide to Spiritual Enlightenment", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "38.21", 
+            "name": "The Omnivore's Dilemma: A Natural History of Four Meals", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.34", 
+            "name": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "44.10", 
+            "name": "The Murder of Roger Ackroyd (Hercule Poirot #4)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "43.29", 
+            "name": "The Mistake (Off-Campus #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "55.85", 
+            "name": "The Matchmaker's Playbook (Wingmen Inc. #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.60", 
+            "name": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "10.97", 
+            "name": "The Long Shadow of Small Ghosts: Murder and Memory in an American City", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.82", 
+            "name": "The Kite Runner", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "36.95", 
+            "name": "The House by the Lake", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "44.28", 
+            "name": "The Glittering Court (The Glittering Court #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "55.02", 
+            "name": "The Girl on the Train", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.24", 
+            "name": "The Genius of Birds", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "23.15", 
+            "name": "The Emerald Mystery", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.25", 
+            "name": "The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First", 
+            "availability": "In stock"
+        }
+    ]
+}

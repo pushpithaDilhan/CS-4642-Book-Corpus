@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "57.31", 
+            "name": "Slow States of Collapse: Poems", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "26.41", 
+            "name": "Reasons to Stay Alive", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "47.61", 
+            "name": "Private Paris (Private #10)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "23.11", 
+            "name": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "45.07", 
+            "name": "Without Borders (Wanderlove #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "31.77", 
+            "name": "When We Collided", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "50.27", 
+            "name": "We Love You, Charlie Freeman", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "14.27", 
+            "name": "Untitled Collection: Sabbath Poems 2014", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "44.18", 
+            "name": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "18.78", 
+            "name": "Unicorn Tracks", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "25.52", 
+            "name": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "16.28", 
+            "name": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "31.12", 
+            "name": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "19.49", 
+            "name": "This One Summer", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.27", 
+            "name": "Thirst", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "19.09", 
+            "name": "The Torch Is Passed: A Harding Family Story", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "56.13", 
+            "name": "The Secret of Dreadwillow Carse", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "56.41", 
+            "name": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "56.50", 
+            "name": "The Past Never Ends", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "45.22", 
+            "name": "The Natural History of Us (The Fine Art of Pretending #2)", 
+            "availability": "In stock"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "38.16", 
+            "name": "The Nameless City (The Nameless City #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.11", 
+            "name": "The Murder That Never Was (Forensic Instincts #5)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "42.96", 
+            "name": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "23.89", 
+            "name": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "16.77", 
+            "name": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "20.59", 
+            "name": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.13", 
+            "name": "The Gutsy Girl: Escapades for Your Life of Epic Adventure", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "56.06", 
+            "name": "The Electric Pencil: Drawings from Inside State Hospital No. 3", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "58.11", 
+            "name": "The Death of Humanity: and the Case for Life", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "49.05", 
+            "name": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "40.76", 
+            "name": "The Art Forger", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "19.73", 
+            "name": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "32.24", 
+            "name": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.83", 
+            "name": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "39.58", 
+            "name": "Soul Reader", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "39.25", 
+            "name": "Security", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "25.02", 
+            "name": "Saga, Volume 6 (Saga (Collected Editions) #6)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "51.04", 
+            "name": "Saga, Volume 5 (Saga (Collected Editions) #5)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "19.83", 
+            "name": "Reskilling America: Learning to Labor in the Twenty-First Century", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "50.40", 
+            "name": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)", 
+            "availability": "In stock"
+        }
+    ]
+}

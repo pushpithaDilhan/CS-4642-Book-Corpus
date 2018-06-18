@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "28.26", 
+            "name": "Modern Romance", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "10.76", 
+            "name": "Miss Peregrine\u2019s Home for Peculiar Children (Miss Peregrine\u2019s Peculiar Children #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "16.85", 
+            "name": "Louisa: The Extraordinary Life of Mrs. Adams", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "13.47", 
+            "name": "Little Red", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "48.56", 
+            "name": "Library of Souls (Miss Peregrine\u2019s Peculiar Children #3)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "19.15", 
+            "name": "Large Print Heart of the Pride", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "57.36", 
+            "name": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "42.98", 
+            "name": "Hollow City (Miss Peregrine\u2019s Peculiar Children #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "22.16", 
+            "name": "Grumbles", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "49.43", 
+            "name": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "29.99", 
+            "name": "Frostbite (Vampire Academy #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "21.36", 
+            "name": "Follow You Home", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "29.00", 
+            "name": "First Steps for New Christians (Print Edition)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "53.53", 
+            "name": "Finders Keepers (Bill Hodges Trilogy #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.62", 
+            "name": "Fables, Vol. 1: Legends in Exile (Fables #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.59", 
+            "name": "Eureka Trivia 6.0", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "34.95", 
+            "name": "Drive: The Surprising Truth About What Motivates Us", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.72", 
+            "name": "Done Rubbed Out (Reightman & Bailey #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "35.61", 
+            "name": "Doing It Over (Most Likely To #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "42.16", 
+            "name": "Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals", 
+            "availability": "In stock"
+        }
+    ]
+}

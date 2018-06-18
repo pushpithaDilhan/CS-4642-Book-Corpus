@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "57.36", 
+            "name": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "29.17", 
+            "name": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.63", 
+            "name": "I am a Hero Omnibus Volume 1", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "46.03", 
+            "name": "How to Be Miserable: 40 Strategies You Already Use", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "33.97", 
+            "name": "Her Backup Boyfriend (The Sorensen Family #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "22.11", 
+            "name": "Giant Days, Vol. 2 (Giant Days #5-8)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "29.69", 
+            "name": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "15.97", 
+            "name": "First and First (Five Boroughs #3)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "21.96", 
+            "name": "Fifty Shades Darker (Fifty Shades #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.35", 
+            "name": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.97", 
+            "name": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "51.99", 
+            "name": "Danganronpa Volume 1", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "43.29", 
+            "name": "Crown of Midnight (Throne of Glass #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "36.72", 
+            "name": "Codename Baboushka, Volume 1: The Conclave of Death", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.08", 
+            "name": "Camp Midnight", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "29.14", 
+            "name": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "28.81", 
+            "name": "Burning", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "49.46", 
+            "name": "Bossypants", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.92", 
+            "name": "Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "28.09", 
+            "name": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)", 
+            "availability": "In stock"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "30.81", 
+            "name": "Algorithms to Live By: The Computer Science of Human Decisions", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "42.95", 
+            "name": "A World of Flavor: Your Gluten Free Passport", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "56.76", 
+            "name": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "16.64", 
+            "name": "A Murder in Time", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "55.53", 
+            "name": "A Flight of Arrows (The Pathfinders #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "28.13", 
+            "name": "A Fierce and Subtle Poison", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "52.37", 
+            "name": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.00", 
+            "name": "(Un)Qualified: How God Uses Broken People to Do Big Things", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "21.87", 
+            "name": "You Are What You Love: The Spiritual Power of Habit", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "43.30", 
+            "name": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "21.04", 
+            "name": "Tuesday Nights in 1980", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.60", 
+            "name": "Tracing Numbers on a Train", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "35.07", 
+            "name": "Throne of Glass (Throne of Glass #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "59.64", 
+            "name": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "52.72", 
+            "name": "Thirteen Reasons Why", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "58.08", 
+            "name": "The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "24.12", 
+            "name": "The Wedding Dress", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "42.15", 
+            "name": "The Vacationers", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "12.61", 
+            "name": "The Third Wave: An Entrepreneur\u2019s Vision of the Future", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.44", 
+            "name": "The Stranger", 
+            "availability": "In stock"
+        }
+    ]
+}

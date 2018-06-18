@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "32.00", 
+            "name": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "38.49", 
+            "name": "The Artist's Way: A Spiritual Path to Higher Creativity", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "33.34", 
+            "name": "The Art of War", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "10.93", 
+            "name": "The Argonauts", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "27.55", 
+            "name": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "55.99", 
+            "name": "Suddenly in Love (Lake Haven #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "16.24", 
+            "name": "Something More Than This", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "26.12", 
+            "name": "Soft Apocalypse", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "12.23", 
+            "name": "So You've Been Publicly Shamed", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "23.99", 
+            "name": "Shoe Dog: A Memoir by the Creator of NIKE", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "29.06", 
+            "name": "Shobu Samurai, Project Aryoku (#3)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "20.27", 
+            "name": "Secrets and Lace (Fatal Hearts #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "43.55", 
+            "name": "Scarlett Epstein Hates It Here", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "36.94", 
+            "name": "Romero and Juliet: A Tragic Tale of Love and Zombies", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "20.47", 
+            "name": "Redeeming Love", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.06", 
+            "name": "Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "14.19", 
+            "name": "Poems That Make Grown Women Cry", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "38.28", 
+            "name": "Nightingale, Sing", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "41.05", 
+            "name": "Night Sky with Exit Wounds", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "30.25", 
+            "name": "Mrs. Houdini", 
+            "availability": "In stock"
+        }
+    ]
+}

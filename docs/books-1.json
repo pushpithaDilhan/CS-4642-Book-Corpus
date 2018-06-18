@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "51.77", 
+            "name": "A Light in the Attic", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "53.74", 
+            "name": "Tipping the Velvet", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "50.10", 
+            "name": "Soumission", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "47.82", 
+            "name": "Sharp Objects", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.23", 
+            "name": "Sapiens: A Brief History of Humankind", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "22.65", 
+            "name": "The Requiem Red", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "33.34", 
+            "name": "The Dirty Little Secrets of Getting Your Dream Job", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.93", 
+            "name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "22.60", 
+            "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "52.15", 
+            "name": "The Black Maria", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "13.99", 
+            "name": "Starving Hearts (Triangular Trade Trilogy, #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "20.66", 
+            "name": "Shakespeare's Sonnets", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.46", 
+            "name": "Set Me Free", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "52.29", 
+            "name": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "35.02", 
+            "name": "Rip it Up and Start Again", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "57.25", 
+            "name": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "23.88", 
+            "name": "Olio", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.59", 
+            "name": "Mesaerion: The Best Science Fiction Stories 1800-1849", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "51.33", 
+            "name": "Libertarianism for Beginners", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "45.17", 
+            "name": "It's Only the Himalayas", 
+            "availability": "In stock"
+        }
+    ]
+}

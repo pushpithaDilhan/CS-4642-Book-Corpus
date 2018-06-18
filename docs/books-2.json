@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "price": "12.84", 
+            "name": "In Her Wake", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "37.32", 
+            "name": "How Music Works", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "30.52", 
+            "name": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "25.27", 
+            "name": "Chase Me (Paris Nights #2)", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "34.53", 
+            "name": "Black Dust", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "54.64", 
+            "name": "Birdsong: A Story in Pictures", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "22.50", 
+            "name": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "53.13", 
+            "name": "Aladdin and His Wonderful Lamp", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "40.30", 
+            "name": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "44.18", 
+            "name": "Wall and Piece", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "17.66", 
+            "name": "The Four Agreements: A Practical Guide to Personal Freedom", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "31.05", 
+            "name": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "23.82", 
+            "name": "The Elephant Tree", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "36.89", 
+            "name": "The Bear and the Piano", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "15.94", 
+            "name": "Sophie's World", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "33.29", 
+            "name": "Penny Maybe", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "18.02", 
+            "name": "Maude (1883-1993):She Grew Up with the country", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "19.63", 
+            "name": "In a Dark, Dark Wood", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "52.22", 
+            "name": "Behind Closed Doors", 
+            "availability": "In stock"
+        }, 
+        {
+            "price": "33.63", 
+            "name": "You can't bury them all: Poems", 
+            "availability": "In stock"
+        }
+    ]
+}
